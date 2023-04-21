@@ -320,6 +320,7 @@ body {
 /* ========= Filter ========= */
 .filter {
   padding-top: 96px;
+  padding-bottom: 120px;
 }
 
 .filter-list {
